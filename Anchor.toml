@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-journalist = "CV1DphaGKtzK1mMskXjDhSGQAnaXEqtq2dqFYSnXMrJm"
+journalist = "4L6fwsiufmNDVmJUbDz8CmENXmhjPrZiac3LdpmGrAp3"
 
 [registry]
 url = "https://api.apr.dev"

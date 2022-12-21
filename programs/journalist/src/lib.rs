@@ -4,7 +4,7 @@ pub mod state;
 pub mod processor;
 use processor::*;
 
-declare_id!("CV1DphaGKtzK1mMskXjDhSGQAnaXEqtq2dqFYSnXMrJm");
+declare_id!("4L6fwsiufmNDVmJUbDz8CmENXmhjPrZiac3LdpmGrAp3");
 
 #[program]
 pub mod journalist {
